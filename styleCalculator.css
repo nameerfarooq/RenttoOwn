@@ -1,0 +1,32 @@
+.main{
+    margin: 30px auto 10px auto;
+    border: black 5px solid;
+    width: 300px;
+    background-color: #1fc341;
+}
+.inputfield{
+    width: 280px;
+   margin-left: 5px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+}
+.clearbtn{
+    width: 285px;
+    margin-left: 5px;
+    margin-bottom: 10px;
+    border: 3px black solid;
+}
+.btn{
+    width: 60px;
+    margin: 5px;
+    border: 3px black solid;
+}
+.btnbig{
+    width: 130px;
+    margin: 7px;
+    border: 3px black solid;
+}
+
+h5{
+    text-align: center;
+}
